@@ -7,4 +7,4 @@ Lambda function to notify Microsoft Teams and Slack of AWS deploy events.
 ```
 SLACK_SERVICE_KEY=<slack service key>
 MS_TEAMS_WEBHOOK=<webhook URL>
-``
+```
